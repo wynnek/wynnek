@@ -16,4 +16,4 @@
 - ✨ Shared understanding and transparency
 - ✨ Continuous safety and trust
 - ✨ Proactive sustainable futurism
-- ✨ Child's mindset and curiosity
+- ✨ Growth mindset and curiosity
