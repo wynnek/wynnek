@@ -1,5 +1,5 @@
-### Hi there, I'm Kimberly Wynne 👋
-## AI Engineer/Human Artist
+### AI Engineer / Human Artist
+## Hi there, I'm Kimberly Wynne 👋
 ![dragonfruit](dragonfruit.png)
 
 ## About Me
@@ -21,5 +21,6 @@
 
 ## Certifications
 
-[![PCEP Certification](pcep-30-02-pcep-certified-entry-level-python-programmer.png)](https://verify.openedg.org/?id=jP6K.qXEo.zjP3)
 PCEP – Certified Entry-Level Python Programmer
+
+<a href="https://verify.openedg.org/?id=jP6K.qXEo.zjP3"><img src="pcep-30-02-pcep-certified-entry-level-python-programmer.png" alt="PCEP Certification" style="width: 300px"/></a>
