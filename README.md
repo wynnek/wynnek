@@ -29,8 +29,8 @@ Issued by Oracle, July 2024
 
 
 
-### PCEP – Certified Entry-Level Python Programmer 
-Issued by Python Institute, March 2024
+### PCEP – Certified Associate Python Programmer 
+Issued by Python Institute, October 2024
 
-<a href="https://verify.openedg.org/?id=jP6K.qXEo.zjP3" target="_blank">
-<img src="pcep-30-02-pcep-certified-entry-level-python-programmer.png" alt="PCEP Certification" style="width: 225px; margin-left: 100px"/></a>
+<a href="https://verify.openedg.org/?id=SQc4.xRk0.NwxH" target="_blank">
+<img src="pcap-31-03-pcap-certified-associate-python-programm.png" alt="PCAP Certification" style="width: 225px; margin-left: 100px"/></a>
